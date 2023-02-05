@@ -1,4 +1,4 @@
-![](https://github.com/zakery1369/pics/blob/master/Rick1.png)
+![](https://github.com/zakery1369/pics/blob/master/Rick2.png)
 ## Hey there ! 🤟
 my name is ali shahrudi , i am DevOps and linux lover.
 you can find my on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/alisahahrudi/)   , [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/a.shahrudi/) , [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/13952238)  
