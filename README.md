@@ -1,7 +1,7 @@
 ![](https://github.com/zakery1369/pics/blob/master/Rick2.png)
 ## Hey there ! 🤟
 my name is Mohammad Zakery , i am DevOps and linux lover.
-you can find my on [<svg xmlns="[http://www.w3.org/2000/svg](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg)" width="10" height="10" fill="none" viewBox="0 0 10 10"></svg>] (https://www.linkedin.com/in/alisahahrudi/)   , [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/a.shahrudi/) , [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/13952238)  
+you can find my on [<svg xmlns="(https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg)" width="10" height="10" fill="none" viewBox="0 0 10 10"></svg>] (https://www.linkedin.com/in/alisahahrudi/)   , [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/a.shahrudi/) , [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/13952238)  
 
 - 💡 I’m interested in Tech :)
 - 🐻 I’m currently learning to be happy.
