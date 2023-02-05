@@ -1,20 +1,24 @@
-![](https://github.com/zakery1369/pics/blob/master/Rick2.png)
+![](https://github.com/zakery1369/pics/blob/master/Rick.png)
 ## Hey there ! 🤟
 my name is Mohammad Zakery , i am DevOps and linux lover.
-you can find me on [<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg' alt='Docker' width="30" height="30"></svg>](https://hub.docker.com/u/zakery1369) , [<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg' alt='Linkedin' width="30" height="30"></svg>](https://linkedin.com/in/zakery1369)  , [<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/DevTo-Dark.svg' alt='Dev.to' width="30" height="30">](https://medium.com/@zakery1369)
+you can find me on [<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg' alt='Docker' width="30" height="30">](https://hub.docker.com/u/zakery1369) , [<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg' alt='Linkedin' width="30" height="30"></svg>](https://linkedin.com/in/zakery1369)  , [<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/DevTo-Dark.svg' alt='Dev.to' width="30" height="30">](https://medium.com/@zakery1369)
 
-- 💡 I’m interested in Tech :)
-- 🐻 I’m currently learning to be happy.
-- 💞️ I’m looking to collaborate on DevOps things.
+- 🥊 I’m interested in Boxing
+- 👨‍👩‍👧 i love to spend time with my family
+- ♾ I’m looking to collaborate on DevOps things
 
 ### My tools are : 🔧
 <!---
 ![](https://img.shields.io/badge/code-python-blue??style=flat&logo=python)   ![](https://img.shields.io/badge/os-linux-blue??style=flat&logo=linux) ![](https://img.shields.io/badge/code-c++-blue??style=flat&logo=C++)   ![](https://img.shields.io/badge/code-flutter-blue??style=flat&logo=flutter) ![](https://img.shields.io/badge/code-django-blue??style=flat&logo=django)    ![](https://img.shields.io/badge/Editor-VsCode-blue??style=flat&logo=visual-studio-code)
 ![](https://img.shields.io/badge/Shell-bash-blue??style=flat&logo=GNU-Bash)    ![](https://img.shields.io/badge/Robatic-ROS-blue??style=flat&logo=ROS) 
-![](https://img.shields.io/badge/Tools-Docker-blue??style=flat&logo=Docker)    ![](https://img.shields.io/badge/code-Dart-blue??style=flat&logo=Dart)
+![](https://img.shields.io/badge/Tools-Docker-blue??style=flat&logo=Docker)    ![](https://img.shields.io/badge/code-Dart-blue??style=flat&logo=Dart)![image](https://user-images.githubusercontent.com/95560413/216825128-5cee8c5a-d82b-4c7f-85bf-4ffd654340ce.png)
+![image](https://user-images.githubusercontent.com/95560413/216825842-30d141b3-5874-4fe5-8c60-e89b7069e78e.png)![image](https://user-images.githubusercontent.com/95560413/216825843-7c5f5b26-7db8-4fbb-a4c2-3496f43e682f.png)
+
+
 ![]()  ![]() 
 ![]()  ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) 
 --->
+[<img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'>](https://hub.docker.com/u/zakery1369)
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
