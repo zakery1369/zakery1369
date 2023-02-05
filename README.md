@@ -1,6 +1,6 @@
 ![](https://github.com/zakery1369/pics/blob/master/Rick2.png)
 ## Hey there ! 🤟
-my name is ali shahrudi , i am DevOps and linux lover.
+my name is Mohammad Zakery , i am DevOps and linux lover.
 you can find my on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/alisahahrudi/)   , [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/a.shahrudi/) , [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/13952238)  
 
 - 💡 I’m interested in Tech :)
@@ -26,7 +26,4 @@ you can find my on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/ic
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) 
-<!---
-alishahrudi/alishahrudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
