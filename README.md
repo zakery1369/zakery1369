@@ -26,6 +26,7 @@
 [<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>](https://cv.zakops.com/)
 [<img src='https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white'>](https://cv.zakops.com/)
 [<img src='https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white'>](https://cv.zakops.com/)
+[<img src='https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white'>](https://cv.zakops.com/)
 [<img src='https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white'>](https://cv.zakops.com/)
 [<img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>](https://cv.zakops.com/)
 [<img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white'>](https://cv.zakops.com/)
