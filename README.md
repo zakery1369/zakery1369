@@ -6,8 +6,8 @@
 - 👨‍👩‍👧 i love to spend time with my family
 - ♾ I’m looking to collaborate on DevOps things
 
-[<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zakery1369'>](https://cv.zakops.com/)
-[<img src='https://github-readme-streak-stats.herokuapp.com/?user=Zakery1369'>](https://cv.zakops.com/)
+[<img align="center" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zakery1369'>](https://cv.zakops.com/)
+[<img align="center" src='https://github-readme-streak-stats.herokuapp.com/?user=Zakery1369'>](https://cv.zakops.com/)
 ### My tools are : 🔧
 [<img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'>](https://cv.zakops.com/)
 [<img src='https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white'>](https://cv.zakops.com/)
@@ -25,4 +25,4 @@
 [<img src='https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white'>](https://cv.zakops.com/)
 [<img src='https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white'>](https://cv.zakops.com/)
 [<img src='https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white'>](https://cv.zakops.com/)
-
+[<img src='https://www.linux-kvm.org/kvmless/kvmbanner-logo3.png'>](https://cv.zakops.com/)
