@@ -7,8 +7,13 @@
 - 👨‍👩‍👧 i love to spend time with my family
 - ♾ I’m looking to collaborate on DevOps things
 
-[<img align="center" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zakery1369'>](https://cv.zakops.com/)
-[<img align="center" src='https://github-readme-streak-stats.herokuapp.com/?user=Zakery1369'>](https://cv.zakops.com/)
+<p align="center">
+  <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zakery1369'>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=Zakery1369'>
+</p>
+
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Zakery1369'>
+
 ### My tools are : 🔧
 [<img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'>](https://cv.zakops.com/)
 [<img src='https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white'>](https://cv.zakops.com/)
