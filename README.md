@@ -33,3 +33,4 @@
 [<img src='https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white'>](https://cv.zakops.com/)
 [<img src='https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white'>](https://cv.zakops.com/)
 [<img src='https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white'>](https://cv.zakops.com/)
+[<img src='https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white'>](https://cv.zakops.com/)
