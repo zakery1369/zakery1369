@@ -4,9 +4,8 @@
 
 ### My name is Mohammad Zakery
 
-### I am a DevSecOps Engineer who loves Linux, automation, Kubernetes security, container security, and OS hardening.
+I believe that security is not a bottleneck, it's an enabler. My mission is to build resilient, zero-trust infrastructure where Linux, Kubernetes, and automation work together seamlessly. Whether it's hardening OS images, securing container runtimes, or automating vulnerability scanning in CI/CD, I make sure your systems are robust from day one.
 
-You can find me on:
 
 <p align="center">
   <a href="https://hub.docker.com/u/zakery1369"><img src='https://github.com/zakery1369/pics/blob/master/icon/Docker.svg' alt='Docker' width="40" height="40"></a>
@@ -29,7 +28,6 @@ You can find me on:
 ---
 
 <p align="center">
-  <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zakery1369'>
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=Zakery1369'>
 </p>
 
