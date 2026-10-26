@@ -45,3 +45,5 @@ I believe that security is not a bottleneck, it's an enabler. My mission is to b
 [<img src='https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white'>](https://cv.zakops.com/)
 [<img src='https://img.shields.io/badge/Security-0F172A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00'>](https://cv.zakops.com/)
 [<img src='https://img.shields.io/badge/SonarQube-00000C?style=for-the-badge&logo=sonar&logoColor=4E9BCD'>](https://cv.zakops.com/)
+[<img src='https://img.shields.io/badge/Semgrep-105A2D?style=for-the-badge&logo=codefactor&logoColor=white'>](https://cv.zakops.com/)
+[<img src='https://img.shields.io/badge/DevSecOps-991B1B?style=for-the-badge&logo=honeybadger&logoColor=white'>](https://cv.zakops.com/)
